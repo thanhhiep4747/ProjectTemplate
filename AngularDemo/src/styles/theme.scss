@@ -1,0 +1,193 @@
+@import "~@angular/material/theming";
+@include mat-core();
+/* #region margin-top */
+.mt5 {
+    margin-top: 5px !important;
+}
+
+.mt10 {
+    margin-top: 10px !important;
+}
+
+.mt7 {
+  margin-top: 7px !important;
+}
+
+.mt15 {
+    margin-top: 15px !important;
+}
+
+.mt16 {
+    margin-top: 16px !important;
+}
+
+.mt18 {
+    margin-top: 18px !important;
+}
+
+.mt20 {
+    margin-top: 20px !important;
+}
+
+.mt30 {
+    margin-top: 30px !important;
+}
+
+.mt40 {
+    margin-top: 40px !important;
+}
+
+/*  #endregion */
+
+/* #region margin-left */
+.ml5 {
+    margin-left: 5px !important;
+}
+
+.ml15 {
+    margin-left: 15px !important;
+}
+
+.ml10 {
+    margin-left: 10px !important;
+}
+
+.ml12 {
+    margin-left: 12px !important;
+}
+.ml16 {
+    margin-left: 16px !important;
+}
+
+.ml-auto {
+    margin-left: auto !important;
+}
+
+.ml-25 {
+    margin-left: -25px !important;
+}
+
+/*  #endregion */
+
+/* #region margin-right */
+.mr5 {
+    margin-right: 5px !important;
+}
+
+.mr12 {
+    margin-right: 12px !important;
+}
+
+.mr15 {
+    margin-right: 15px !important;
+}
+
+.mr24 {
+    margin-right: 24px !important;
+}
+/*  #endregion */
+
+/* #region margin-bottom */
+.mb5 {
+    margin-bottom: 5px !important;
+}
+
+.mb10 {
+    margin-bottom: 10px !important;
+}
+
+.mb15 {
+    margin-bottom: 15px !important;
+}
+/*  #endregion */
+
+/* #region padding-top */
+.pt8 {
+    padding-top: 8px !important;
+}
+
+.pt10 {
+    padding-top: 10px !important
+}
+
+.pt15 {
+    padding-top: 15px !important;
+}
+
+.pt16 {
+    padding-top: 16px !important;
+}
+
+.pt18 {
+    padding-top: 18px !important;
+}
+
+.pt24 {
+    padding-top: 24px !important;
+}
+/*  #endregion */
+
+/* #region padding-left */
+.pl10 {
+    padding-left: 10px !important;
+}
+.pl15 {
+    padding-left: 15px !important;
+}
+.pl16 {
+    padding-left: 16px !important;
+}
+.pl0 {
+    padding-left: 0px !important;
+}
+
+/*  #endregion */
+
+/* #region padding-right */
+.pr0 {
+    padding-right: 0px !important;
+}
+
+.pr15 {
+    padding-right: 15px !important;
+}
+
+.pr16 {
+    padding-right: 16px !important;
+}
+
+/*  #endregion */
+
+
+/* #region font-size*/
+.fs12 {
+    font-size: 12px;
+}
+
+.fs14 {
+    font-size: 14px !important;
+}
+
+.fs16 {
+    font-size: 16px !important;
+}
+
+.fs22 {
+    font-size: 22px !important;
+}
+/* #endregion */
+
+
+/* #region font-weight*/
+.fw500 {
+    font-weight: 500 !important;
+}
+/* #endregion */
+
+.italic-text {
+    font-style: italic;
+}
+
+.display-flex {
+    display: flex;
+}

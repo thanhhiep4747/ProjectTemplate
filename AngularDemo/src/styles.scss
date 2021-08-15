@@ -1,0 +1,37 @@
+@import "~src/styles/_color.scss";
+
+.toast-error {
+  background-color: $error-color;
+  color: $text-white;
+
+  .mat-simple-snackbar-action.ng-star-inserted {
+      color: $text-white;
+  }
+}
+
+.toast-success {
+  background-color: $success-color;
+  color: $text-white;
+
+  .mat-simple-snackbar-action.ng-star-inserted {
+      color: $text-white;
+  }
+}
+
+.toast-infor {
+  background-color: $infor-color;
+  color: $text-white;
+
+  .mat-simple-snackbar-action.ng-star-inserted {
+      color: $text-white;
+  }
+}
+
+.toast-warning {
+  background-color: $warning-color;
+  color: $text-dark;
+
+  .mat-simple-snackbar-action.ng-star-inserted {
+      color: $text-dark;
+  }
+}

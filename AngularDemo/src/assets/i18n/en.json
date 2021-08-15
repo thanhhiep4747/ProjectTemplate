@@ -1,0 +1,17 @@
+{
+  "COMMON": {
+    "HOME": "Hjem",
+    "ADVISORS": "Brukere",
+    "SETTING": "Innstilling",
+    "LOGOUT": "Logg ut",
+    "USERNAME": "Brukernavn",
+    "PASSWORD": "Passord",
+    "LOGIN_2_YOUR_ACCOUNT": "Pålogging til din konto",
+    "FORGOT_YOUR_PASSWORD": "Glemt passordet?",
+    "EMAIL": "Epost",
+    "GET_PASSWORD": "Få passord"
+  },
+  "ERROR": {
+    "UNKNOW_ERROR": "Server has received your request, but the processing has not been completed."
+  }
+}
